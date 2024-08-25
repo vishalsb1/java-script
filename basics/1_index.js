@@ -1,4 +1,5 @@
 // value conversion 
+// als learned conversion
 
 let score="33"
 
