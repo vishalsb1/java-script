@@ -1,1 +1,3 @@
 # java-script
+
+started learning java script ...
